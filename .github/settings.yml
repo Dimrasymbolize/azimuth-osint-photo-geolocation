@@ -1,0 +1,4 @@
+repository:
+  homepage: https://awesomeosint.tools/azimuth/
+  description: "OSINT geolocation tool for Windows: find where a photo or video was taken from the shadows, signs and other clues in the frame."
+  topics: osint, osint-tool, geolocation, photo-geolocation, geoint, imint, chronolocation, shadow-analysis
